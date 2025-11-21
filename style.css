@@ -82,3 +82,12 @@ section {
     font-size: 28px;
     margin-top: -6px;
 }
+.error {
+    text-align: left;
+    margin: 6px 0 0 20px;
+    font-size: 14px;
+    display: none;
+}
+.weather {
+    display: none;
+}
